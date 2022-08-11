@@ -20,5 +20,6 @@ https://codesley.github.io/SEI-Project-1-Mapsley/
 
 ## Future Goals
 
+* Implement features that lets users know their current score and whether or not they got the answer right or wrong. 
 * Create a score list that logs user names with their best score.
 * Optimize the CSS so that the game looks refined on a multitude of platforms (Mobile, tablet, etc.).
