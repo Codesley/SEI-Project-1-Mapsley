@@ -26,6 +26,4 @@ h2 {
   grid-template-columns: repeat(2, auto);
   gap: 20px;
   visibility: hidden;
-  font-family: 'Fredoka One', sans-serif;
-  font-family: ;
 }
