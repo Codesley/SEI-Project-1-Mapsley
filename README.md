@@ -1,31 +1,21 @@
 # Mapsley Trivia
 
-## **Overview**
+## Project Description
+Mapsley is an in-browser trivia game that is based on U.S. geography. The name itself is a play on my actual name "Kingsley" and the idea originated from me having minored in U.S. geography during my undergrad. The main goal of the game is to test the user's knowledge of United States geography by asking them fifteen questions. Each question has four options the user can choose from. Once the user picks their answer, they are taken to the next question. Upon completing the final question, the user is taken to the results screen that shows them the correct amount of answers they achieved. In this game, having ten correct answers or more will be considered a victory, while having less will be considered a loss.  
 
-Your first SEI project will start out with something fun - **a game!**
 
-Thanks to the amount of logic there is in a game, there's no better app than a game to teach you how to **think like a programmer**!
-
-Everyone will get a chance to **be creative**, and work through some really **tough programming challenges**. You got your feet wet with Tic-Tac-Toe, and we built a game or two during class - now it's time to step it up a notch.
-
-**You will be working individually for this project**. However, your instructors and instructor assistants will be guiding you along with up to ten 15-minute one-on-one sessions. Be sure to use them wisely :).
-
-As a reminder, GA has a zero plagiarism policy - your project's code **must be substantially yours**. **Do not copy code from other similar projects or other sources**. However, using lines of code from StackOverflow to accomplish general techniques/algorithms is okay - an example would be using StackOverflow as a source for code that replaces a character at a certain position in a string.
-
----
-
-## **Planning & Presentation Requirements**
 
 ### **Planning - Due By BOD August 8, 2022**
 
 - You will share:
-      ☐ Your choice of game.
-      <!-- Trivia Game: US Geography -->
-      <!-- Possible name: Mapsley -->
+  ☐ Your choice of game.
+  <!-- Trivia Game: US Geography -->
+  <!-- Possible name: Mapsley -->
 
       ☐ A wireframe of your "main" game screen. (Many students find [https://www.figma.com/](https://www.figma.com/) helpful)
 
       ☐ Pseudocode for the overall gameplay.
+
   <!--1. User will start off in an introduction screen with title and a start button -->
 
 <!-- After clicking start, user will be moved to next screen displaying first trivia question. One main box displaying the question with four available options that the user can click on. -->
