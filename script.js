@@ -39,9 +39,9 @@ const questions = [
     options: ["Kansas", "Lousiana", "Colorado"],
   },
   {
-    prompt: "How many US states are landlocked?",
-    answer: "16",
-    options: ["10", "6", "13"],
+    prompt: "Which state is the least populated?",
+    answer: "Wyoming",
+    options: ["Alaska", "Montana", "Delaware"],
   },
   {
     prompt: "What state is called ‘The First State’?",
