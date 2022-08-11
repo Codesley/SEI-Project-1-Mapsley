@@ -1,4 +1,4 @@
-# PROJECT 1! **Browser-based Game**
+# Mapsley Trivia
 
 ## **Overview**
 
