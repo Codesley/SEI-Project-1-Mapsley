@@ -20,5 +20,5 @@ https://codesley.github.io/SEI-Project-1-Mapsley/
 
 ## Future Goals
 
-* Create a score list that logs user names with their best score
-* Optimize the CSS so that the game looks refined on a multitude of platforms (Mobile, tablet, etc.)
+* Create a score list that logs user names with their best score.
+* Optimize the CSS so that the game looks refined on a multitude of platforms (Mobile, tablet, etc.).
