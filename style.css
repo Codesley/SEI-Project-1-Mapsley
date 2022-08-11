@@ -1,5 +1,6 @@
 body {
-  background: url(https://s3-us-east-2.amazonaws.com/rvshare-wordpress/wp-content/uploads/2017/06/18211916/Grand-Canyon-National-Park-3.jpg) no-repeat center center fixed;
+  background: url(https://s3-us-east-2.amazonaws.com/rvshare-wordpress/wp-content/uploads/2017/06/18211916/Grand-Canyon-National-Park-3.jpg)
+    no-repeat center center fixed;
   background-size: cover;
   font-family: "Fredoka One", sans-serif;
 }
@@ -8,15 +9,15 @@ h1 {
   text-align: center;
   color: white;
   align-items: center;
-  font-family: 'Fredoka One', sans-serif;
-  font-size: 150px;
+  font-family: "Fredoka One", sans-serif;
+  font-size: 140px;
   -webkit-text-stroke: 3px black;
 }
 
 h2 {
   color: white;
   text-align: center;
-  font-size: 80px;
+  font-size: 70px;
   -webkit-text-stroke: 3px black;
 }
 .options {
@@ -26,4 +27,13 @@ h2 {
   grid-template-columns: repeat(2, auto);
   gap: 20px;
   visibility: hidden;
+}
+
+.start {
+  text-align: center;
+}
+
+.reset {
+  text-align: center;
+  margin-top: 20px;
 }
