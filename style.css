@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://s3-us-east-2.amazonaws.com/rvshare-wordpress/wp-content/uploads/2017/06/18211916/Grand-Canyon-National-Park-3.jpg);
+  font-family: "Sofia", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  font-size: 150px;
+  -webkit-text-stroke: 3px black;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 80px;
+  -webkit-text-stroke: 3px black;
+}
+.options {
+  text-align: center;
+  font-size: 40px;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 20px;
+  visibility: hidden;
+}
