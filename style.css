@@ -12,6 +12,7 @@ h1 {
   font-family: "Fredoka One", sans-serif;
   font-size: 140px;
   -webkit-text-stroke: 3px black;
+  margin-bottom: -10px;
 }
 
 h2 {
@@ -27,13 +28,46 @@ h2 {
   grid-template-columns: repeat(2, auto);
   gap: 20px;
   visibility: hidden;
+  margin-bottom: -20px;
 }
 
 .start {
   text-align: center;
+  font-family: "Fredoka One", sans-serif;
 }
 
 .reset {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 40px;
+}
+
+#startbutton {
+  font-size: 25px;
+  background-color: coral;
+  color: white;
+  font-family: "Fredoka One", sans-serif;
+}
+
+#resetbutton {
+  font-size: 25px;
+  background-color: coral;
+  color: white;
+  font-family: "Fredoka One", sans-serif;
+}
+
+.button1 {
+  font-size: 25px;
+  font-family: "Fredoka One", sans-serif;
+}
+.button2 {
+  font-size: 25px;
+  font-family: "Fredoka One", sans-serif;
+}
+.button3 {
+  font-size: 25px;
+  font-family: "Fredoka One", sans-serif;
+}
+.button4 {
+  font-size: 25px;
+  font-family: "Fredoka One", sans-serif;
 }
