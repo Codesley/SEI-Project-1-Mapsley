@@ -236,9 +236,9 @@ function nextQuestion() {
   if (i === 15) {
     topBar.innerHTML = correctAnswers + "/15";
     if (correctAnswers === 15) {
-      midBar.innerHTML = "Winner! US geography whiz!";
+      midBar.innerHTML = "Winner! US geography master!";
     } else if (correctAnswers >= 10 && correctAnswers < 15) {
-      midBar.innerHTML = "You passed! US Geography intermediate!";
+      midBar.innerHTML = "You passed! US Geography whiz!";
     } else if (correctAnswers >= 5 && correctAnswers < 10) {
       midBar.innerHTML = "You didn't pass :(  Keep trying you'll get it soon!";
     } else if (correctAnswers < 5) {
