@@ -16,7 +16,7 @@ Mapsley is an in-browser trivia game that is based on U.S. geography. The name i
 Originally when planning Mapsley, I wanted to create three different sections of the screen that I could manipulate through javascript as the game progressed. The top portion would contain the title, question number, and number of questions answered correctly. The middle portion would contain a brief description of the game, the question, and a message decaring if the user had won or loss. Lastly, the bottom portion would contain the answer choices, as well as a start and reset button. 
 
 ## Gameplay
-<img width="1440" alt="Screen Shot 2022-08-11 at 6 47 57 PM" src="https://user-images.githubusercontent.com/107660606/184266890-5d3f0253-572c-4dc7-a764-f48d5e0d47d1.png">
+<img width="1435" alt="Screen Shot 2022-08-11 at 8 35 45 PM" src="https://user-images.githubusercontent.com/107660606/184269205-d8b18655-46bb-45b8-b519-cd0227d6751f.png">
 
 The user begins the game on this title screen that gives a brief description on what the trivia is based on. From here the user can begin the game by pressing start. 
 

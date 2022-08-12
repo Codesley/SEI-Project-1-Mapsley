@@ -88,6 +88,7 @@ const questions = [
 start.addEventListener("click", startTrivia);
 function startTrivia() {
   options.style.visibility = "visible";
+  reset.style.visibility = "visible";
   topBar.innerHTML = "1 of 15";
   midBar.innerHTML = questions[0].prompt;
   answer1.innerHTML = questions[0].options[0];

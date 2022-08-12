@@ -53,6 +53,7 @@ h2 {
   background-color: coral;
   color: white;
   font-family: "Fredoka One", sans-serif;
+  visibility: hidden;
 }
 
 .button1 {
