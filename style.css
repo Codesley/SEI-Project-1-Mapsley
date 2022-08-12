@@ -21,6 +21,7 @@ h2 {
   font-size: 70px;
   -webkit-text-stroke: 3px black;
 }
+
 .options {
   text-align: center;
   font-size: 40px;
@@ -60,14 +61,17 @@ h2 {
   font-size: 25px;
   font-family: "Fredoka One", sans-serif;
 }
+
 .button2 {
   font-size: 25px;
   font-family: "Fredoka One", sans-serif;
 }
+
 .button3 {
   font-size: 25px;
   font-family: "Fredoka One", sans-serif;
 }
+
 .button4 {
   font-size: 25px;
   font-family: "Fredoka One", sans-serif;
