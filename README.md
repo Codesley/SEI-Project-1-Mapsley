@@ -8,6 +8,10 @@ Mapsley is an in-browser trivia game that is based on U.S. geography. The name i
 
 **HTML | CSS | Vanilla Javascript**
 
+## Planning
+
+![alt text](https://raw.githubusercontent.com/abdulmoizshaikh/recipe-book/master/src/assets/images/Screenshot%20from%202021-03-31%2011-08-15.png?token=AGEPYAA3FGL4MHI7LZA75VLAMQJ5A) 
+
 ## Link to Game
 
 https://codesley.github.io/SEI-Project-1-Mapsley/
