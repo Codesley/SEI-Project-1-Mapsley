@@ -29,9 +29,9 @@ const questions = [
     options: ["Seven", "One", "Two"],
   },
   {
-    prompt: "What is the oldest town in Texas?",
-    answer: "Nacogdoches",
-    options: ["Austin", "Ysleta", "Goliad"],
+    prompt: "Which Great Lake is located entirely within the U.S. border?",
+    answer: "Lake Michigan",
+    options: ["Lake Huron", "Lake Erie", "Lake Superior"],
   },
   {
     prompt: "Which state is the flattest state in the US?",
